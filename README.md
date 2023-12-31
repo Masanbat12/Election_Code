@@ -21,7 +21,8 @@ Finally, it congratulates the winner on a separate colorful panel.
 3. Run `mvn clean install` to install dependencies.
 
 ## Running the Application
-Execute `Main.java` to start the application. Follow the on-screen instructions to vote. 
+Execute the files in the src package: `main.java`OR 'ElectionGUI.java' to start the application. 
+Follow the on-screen instructions to vote. 
 The results are displayed in a pie chart, and the winner is announced afterward.
 
 ## Contributing
